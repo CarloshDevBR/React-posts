@@ -1,7 +1,7 @@
 ### Linguage: PT-BR
 
 <br>
-<h1 align="center" >Copy YouTube</h1>
+<h1 align="center" >React Mock Posts</h1>
 
 <br>
 
